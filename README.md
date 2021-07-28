@@ -16,3 +16,11 @@ start Orchestrator:
 ./run.py --metrics
 ```
 
+move to NMS folder:
+```bash
+cd magma/nms/app/packages/magmalte
+docker-compose build magmalte
+docker-compose up -d
+./scripts/dev_setup.sh
+```
+
