@@ -11,4 +11,8 @@ cd magma/orc8r/cloud/docker
 ./build.py --all
 ```
 
+start Orchestrator:
+```bash
+./run.py --metrics
+```
 
