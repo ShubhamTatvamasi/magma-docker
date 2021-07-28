@@ -24,3 +24,8 @@ docker-compose up -d
 ./scripts/dev_setup.sh
 ```
 
+https://magma-test.localhost/
+```
+ID: admin@magma.test
+Password: password1234
+```
