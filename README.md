@@ -2,7 +2,7 @@
 
 clone magma repo:
 ```bash
-git clone https://github.com/magma/magma.git --depth 1
+git clone https://github.com/magma/magma.git
 ```
 
 move to docker folder and build Orchestrator images:
